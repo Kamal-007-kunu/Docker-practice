@@ -1,4 +1,2 @@
-def Name(Name):
-    print( "Hello " + Name + "!") 
+print( "Hello Docker!") 
 
-Name("Docker")
