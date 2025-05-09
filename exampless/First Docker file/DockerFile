@@ -16,4 +16,6 @@ RUN apt-get update && apt-get install -y python3 python3-pip
 ENV NAME World
 
 #Default command to run when starting the container
-CMD ["python3", "app.py"]
+CMD ["python3", "app.py"] 
+
+##
